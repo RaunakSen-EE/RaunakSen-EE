@@ -1,8 +1,6 @@
-[![MasterHead](https://assets.team-consulting.com/wp-content/uploads/2022/01/07155136/animation-of-data-points-floating-on-a-dark-background.gif)]
-
 <h1 align="center">Hi 👋, I'm Raunak Sen</h1>
 <h3 align="center">Data Science | Electrical Engineering | .....</h3>
-<img align="right" alt="Coding" width="400" src="https://www.decimalpointanalytics.com/static/media/indexbanner.a760e691219cb14b3e4a.gif">
+<img align="right" alt="Coding" width="400" src="https://assets.team-consulting.com/wp-content/uploads/2022/01/07155136/animation-of-data-points-floating-on-a-dark-background.gif">
 
 <p align="left"> <a href="https://twitter.com/rsofficial_6" target="blank"><img src="https://img.shields.io/twitter/follow/rsofficial_6?logo=twitter&style=for-the-badge" alt="rsofficial_6" /></a> </p>
 
