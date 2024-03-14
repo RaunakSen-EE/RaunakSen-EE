@@ -15,6 +15,9 @@ In my pursuit of excellence, I am currently expanding my horizons through furthe
 With a toolbox brimming with top-notch skills in data analysis and a penchant for storytelling, I relish the opportunity to breathe life into data, weaving compelling narratives that captivate and enlighten. Whether it's unraveling the mysteries of complex datasets or applying machine learning algorithms to extract actionable insights, I thrive on the challenge of translating raw data into tangible solutions.
 
 Fuelled by a passion for exploration and a hunger for innovation, I immerse myself in data-driven projects, constantly pushing the boundaries of what's possible. From tinkering with cutting-edge technologies to experimenting with a myriad of tools, I am always on the lookout for new avenues to elevate my craft and make a meaningful impact.
+</>How to reach me raunaks.contact@gmail.com
+</>Available at https://raunaksen-ee.github.io/portfolio_raunak/
+</>Know about my experiences https://sites.google.com/view/raunaksen-r/home
 
 
 ## 🌐 Socials:
