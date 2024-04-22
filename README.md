@@ -1,4 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Raunak </h1>
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/10LHQ4ph7ufypW0zxZ99ZQ6ZAtWCPfDnD/view?usp=sharing">
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 
